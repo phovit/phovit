@@ -11,4 +11,4 @@
 <h3>Technologies</h3>
 <img src="https://www.oracle.com/a/tech/img/cb88-java-logo-001.jpg" height="auto" width="50">
 <img src="https://arquivo.devmedia.com.br/noticias/artigos/artigo_linguagem-sql-torne-seu-codigo-sql-mais-legivel_38062.jpg" height="auto" width="50">
-
+<img src="https://miro.medium.com/max/2560/1*iOmwue1uxW2O6sbDUEItPw.jpeg" height="auto" width="50">
