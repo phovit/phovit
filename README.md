@@ -4,9 +4,9 @@
 
 
 <a href="https://www.linkedin.com/in/poliveiradev/" >
-<p align="center">
+<div align="center">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVZ7ih0RMvWGQ4X98WXAZofSI-cGiWSFs-5Q&usqp=CAU" height="20" width="20">
   
   poliveiradev
-  </p>
+  </div>
 </a>
