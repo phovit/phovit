@@ -8,7 +8,7 @@
 <br>
 <br>
 <hr>
-<center>
+<div align="center">
 <h3>Technologies</h3>
 <br>
 BackEnd
@@ -19,4 +19,4 @@ Database
 FrontEnd
 <br>
 <img  src="https://miro.medium.com/max/2560/1*iOmwue1uxW2O6sbDUEItPw.jpeg" height="auto" width="50">
-</center>
+</div>
