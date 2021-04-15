@@ -3,7 +3,7 @@
   </p>
 
 
-<a href="https://www.linkedin.com/in/poliveiradev/">
+<a href="https://www.linkedin.com/in/poliveiradev/" style="width:10px; height:auto;">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVZ7ih0RMvWGQ4X98WXAZofSI-cGiWSFs-5Q&usqp=CAU">
 <p align="center">
   
