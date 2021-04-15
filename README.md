@@ -5,3 +5,10 @@
 <a href="https://www.linkedin.com/in/poliveiradev/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVZ7ih0RMvWGQ4X98WXAZofSI-cGiWSFs-5Q&usqp=CAU" height="20" width="20"></a>
 <a href="https://www.linkedin.com/in/poliveiradev/" target="_blank">poliveiradev</a>
 </p>
+<br>
+<br>
+<hr>
+<h3>Technologies</h3>
+<img src="https://www.oracle.com/a/tech/img/cb88-java-logo-001.jpg" height="auto" width="50">
+<img src="https://arquivo.devmedia.com.br/noticias/artigos/artigo_linguagem-sql-torne-seu-codigo-sql-mais-legivel_38062.jpg" height="auto" width="50">
+
