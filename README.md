@@ -1,4 +1,4 @@
-<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Youtube_loading_symbol_1_(wobbly).gif"  height="auto" width="200"/></p>
+<p align="center"><img src="https://i.gifer.com/ZZ5H.gif"  height="auto" width="200"/></p>
 <p align="center">Building this profile...</p>
 
 <br><br><br>
