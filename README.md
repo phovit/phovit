@@ -1,4 +1,4 @@
-<img src="https://lh3.googleusercontent.com/proxy/1tY9Y8fqS1CH9OahLUbcOCVQhOnas0mJ2AwBMgUPGt56niNWOlUp3e0-ugenP97fuOr8JTizN5PsKAAvi4BLBLNc0Qkgsd-mzBAVTLuI"/>
+<p align="center"><img src="https://lh3.googleusercontent.com/proxy/1tY9Y8fqS1CH9OahLUbcOCVQhOnas0mJ2AwBMgUPGt56niNWOlUp3e0-ugenP97fuOr8JTizN5PsKAAvi4BLBLNc0Qkgsd-mzBAVTLuI"/  height="auto" width="200"></p>
 <br><br><br><br><br>
 
 <p align="center">Hi, I'm Paulo Henrique, 29yo developer from Brasil 🇧🇷</p>
