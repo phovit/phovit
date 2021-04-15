@@ -22,7 +22,7 @@ Database
 <br>
 FrontEnd
 <br>
-<br>
 <img  src="https://miro.medium.com/max/2560/1*iOmwue1uxW2O6sbDUEItPw.jpeg" height="auto" width="50">
+<br>
 <br>
 </div>
