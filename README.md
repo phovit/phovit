@@ -1,5 +1,5 @@
-<p align="center"><img src="https://www.gestaoerh.com.br/img/eventos/new_evento/loader3.gif"  height="auto" width="400"/></p>
-Building this profile...
+<p align="center"><img src="https://www.gestaoerh.com.br/img/eventos/new_evento/loader3.gif"  height="auto" width="200"/></p>
+<p align="center">Building this profile...</p>
 
 <br><br><br>
 <hr>
