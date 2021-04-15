@@ -20,6 +20,7 @@ Database
 <br>
 <img  src="https://arquivo.devmedia.com.br/noticias/artigos/artigo_linguagem-sql-torne-seu-codigo-sql-mais-legivel_38062.jpg" height="auto" width="50">
 <br>
+<br>
 FrontEnd
 <br>
 <img  src="https://miro.medium.com/max/2560/1*iOmwue1uxW2O6sbDUEItPw.jpeg" height="auto" width="50">
