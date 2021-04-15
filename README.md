@@ -1,4 +1,8 @@
+<img src="https://lh3.googleusercontent.com/proxy/1tY9Y8fqS1CH9OahLUbcOCVQhOnas0mJ2AwBMgUPGt56niNWOlUp3e0-ugenP97fuOr8JTizN5PsKAAvi4BLBLNc0Qkgsd-mzBAVTLuI"/>
+<br><br><br><br><br>
+
 <p align="center">Hi, I'm Paulo Henrique, 29yo developer from Brasil 🇧🇷</p>
+
 <p align="center">Actually I work at Zup Innovation<img src="https://uploads-ssl.webflow.com/5cac6236f8d44ddee118d97c/5e666d594f66c9c1e9c3ce74_LogoRGB2.png"  height="20" width="auto"> as a Senior BackEnd Developer</p>
 
 <p  align="center">
